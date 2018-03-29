@@ -1,6 +1,6 @@
 /*
-	CMM01-©ö-¼Æ¾ÇÃþ-C++
-	­pºâ±è§Î­±¿n
+	CMM01-æ˜“-æ•¸å­¸é¡ž-C++
+	è¨ˆç®—æ¢¯å½¢é¢ç©
 */
 #include <iostream>
 #include <iomanip>
