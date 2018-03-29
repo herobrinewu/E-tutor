@@ -1,6 +1,6 @@
 /*
-	CMM02-©ö
-	­pºâ¤T¨¤§Î­±¿n
+	CMM02-æ˜“
+	è¨ˆç®—ä¸‰è§’å½¢é¢ç©
 */
 
 #include <iostream>  
