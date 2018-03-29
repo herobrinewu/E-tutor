@@ -1,11 +1,11 @@
 /*
-	2018 3 30:01:01 <create>
-	CMM20 easy
-	
+   2018 3 30:01:01 <create>
+   CMM20 easy
+   十進位轉十六進位
 */
 
 
-
+//簡單寫法
 //#include <iostream>
 //
 //using namespace std;
@@ -16,6 +16,7 @@
 //	return 0;
 //}
 
+//正式寫法
 #include <iostream>
 using namespace std;
 char che(int a);
